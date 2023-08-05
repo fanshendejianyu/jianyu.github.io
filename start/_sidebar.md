@@ -14,7 +14,6 @@
   - [socket基础](网络编程/socket.md)
   - [黑马Netty](网络编程/netty.md)
   - [尚硅谷Netty](网络编程/尚硅谷Netty.md)
-
 - Gradle
   - [Gradle教程入门到进阶](java/gradle.md)
 
@@ -64,6 +63,7 @@
   - [uni-app商城项目实战](uniapp/商城.md)
 - Nuxt
   - [Nuxt由浅入深](nuxt/nuxt.md)
+- Linux
 - Docker入门到进阶
   - [Docker入门](docker/docker.md)
   - [Docker进阶](docker/advanced.md)
